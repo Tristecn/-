@@ -8,7 +8,9 @@
 #======================================#
 
 # > 红尘
-DOMAIN-SUFFIX,happyav.eu.org
+#DOMAIN,rdc.happyav.eu.org 
+DOMAIN,rd.happyav.eu.org 
+DOMAIN,new.happyav.eu.org
 
 
 # > 卡卡服
