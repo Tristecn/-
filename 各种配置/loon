@@ -28,11 +28,7 @@ bypass-tun = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,1
 [Proxy]
 
 [Remote Proxy]
-桃子 = https://boluomi.link/api/v1/client/subscribe?token=d39a359dc57e4a3625ca8f771dd1f904,udp=true,fast-open=default,vmess-aead=true,skip-cert-verify=default,enabled=true,flexible-sni=true
-大韩 = https://link.yes-elegant.world/api/v1/client/subscribe?token=5d14a475f047a110763e27f98f03db33,udp=true,fast-open=false,vmess-aead=true,skip-cert-verify=default,enabled=true,flexible-sni=true,img-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Universal/Airport.png
-hy = https://sub2.bighneko.top/api/v1/client/subscribe?token=ecb3c2da1dfa14772186692406a357e0,udp=true,fast-open=false,vmess-aead=true,skip-cert-verify=default,enabled=true,flexible-sni=true
-一元 = https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=7d0149647ce2d847e7bc7e040909e8fd,udp=true,fast-open=false,vmess-aead=true,skip-cert-verify=default,enabled=false,flexible-sni=true
-水母 = https://eggtartcloud.biz/api/v1/client/subscribe?token=b389152b3bbdde725db4cb29850688db,udp=true,fast-open=false,vmess-aead=true,skip-cert-verify=default,enabled=false,flexible-sni=true
+
 
 [Remote Filter]
 游戏节点 = NameRegex, FilterKey = "^(?=.*((?i)游戏|🎮|(\b(GAME)\b)))(?!.*((?i)回国|校园)).*$"
